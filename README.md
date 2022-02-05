@@ -29,5 +29,5 @@ Currently a student at the University of Toronto (class of 2025) and a full-stac
 ## Socials
 Feel free to reach out, whether if you have any inquiries, questions, or ideas, or if you just want to connect!
 
-<a href="linkedin.com/jasonfyw" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/jasonfyw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="mailto:jasonwang0610@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
