@@ -1,6 +1,6 @@
-## Hi there! 👋 I'm Jason
+<h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-Currently a student at the University of Toronto (class of 2025) and a full-stack web developer with interests in SWE, ML, blockchain, physics, and mathematics.
+Currently a student at the University of Toronto (class of 2025) and a full-stack web developer with interests in SWE, ML, blockchain, physics, and mathematics. I code all sorts of things, but I particularly enjoy building web apps and physics simulations!
 
 ## Tech stack
 
