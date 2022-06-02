@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-Currently a student at the University of Toronto (class of 2025) and a full-stack web developer with interests in SWE, ML, blockchain, physics, and mathematics. I code all sorts of things, but I particularly enjoy building web apps and physics simulations!
+Currently a student at the University of Toronto (class of 2025) and a full-stack web developer with interests in SWE, ML, physics, and mathematics. I code all sorts of things, but my personal work has revolved a lot around web apps and physics simulations.
 
 ## Tech stack
 
@@ -25,7 +25,7 @@ Currently a student at the University of Toronto (class of 2025) and a full-stac
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)
-![Jason's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasonfyw&theme=nord)
+![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord)
 
 
 ## Socials
