@@ -10,6 +10,7 @@ Currently a student at the University of Toronto (class of 2025) and a full-stac
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -27,7 +28,7 @@ Currently a student at the University of Toronto (class of 2025) and a full-stac
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)
-![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord)
+![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html)
 
 
 ## Socials
