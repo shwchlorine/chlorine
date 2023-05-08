@@ -28,7 +28,7 @@ Currently a student at the University of Toronto (class of 2025) and a full-stac
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)
+![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&count_private=true&show_icons=true&theme=nord)
 ![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html)
 
 
