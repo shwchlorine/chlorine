@@ -1,6 +1,10 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-Currently a student at the University of Toronto (class of 2025) pursuing a Specialist in Computer Science & Major in Cognitive Science. I am a full-stack web developer with interests in SWE, ML, physics, and mathematics. I code all sorts of things, but my personal work has revolved a lot around web apps and physics simulations.
+Currently a second-year student at the University of Toronto pursuing a Specialist in Computer Science & Major in Cognitive Science. I am a full-stack developer with interests in SWE and ML.
+
+I'm currently a Software Engineering Intern at NerveX for Summer 2023 as well as a Web Developer at the University of Toronto Machine Intelligence Student Team (UTMIST).
+
+I code all sorts of things, but my personal work has focussed on creating beautiful web apps for everything from simulations and visualisations to sentiment analysis tools. I'm always looking for new opportunities and projects to get involved in so get in touch if you want to collab!
 
 ## Tech stack
 
@@ -39,7 +43,7 @@ Currently a student at the University of Toronto (class of 2025) pursuing a Spec
 
 
 ## Socials
-Feel free to reach out, whether if you have any inquiries, questions, or ideas, or if you just want to connect!
+Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/jasonfyw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="mailto:jasonwang0610@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
