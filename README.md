@@ -39,7 +39,7 @@ I code all sorts of things, but my personal work has focussed on creating beauti
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&count_private=true&show_icons=true&theme=nord)
-![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html)
+![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
 
 ## Socials
