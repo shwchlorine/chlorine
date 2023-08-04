@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-Currently a second-year student at the University of Toronto pursuing a Specialist in Computer Science & Major in Cognitive Science. I am a full-stack developer with interests in SWE and ML.
+Currently, a second-year student at the University of Toronto pursuing a Specialist in Computer Science & Major in Cognitive Science. I am a full-stack developer with interests in SWE and ML.
 
 I'm currently a Software Engineering Intern at NerveX for Summer 2023 as well as a Web Developer at the University of Toronto Machine Intelligence Student Team (UTMIST).
 
@@ -38,7 +38,7 @@ I code all sorts of things, but my personal work has focussed on creating beauti
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&count_private=true&show_icons=true&theme=nord)
+![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
 ![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
 
