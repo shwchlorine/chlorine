@@ -1,8 +1,8 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-Currently, a second-year student at the University of Toronto pursuing a Specialist in Computer Science & Major in Cognitive Science. I am a full-stack developer with interests in SWE and ML.
+I'm a third year co-op student at the University of Toronto with a passion for software engineering. I'm pursuing an HBSc with a Specialist in Computer Science (ASIP co-op) and Major in Cognitive Science, graduating class of 2025.
 
-I'm currently a Software Engineering Intern at NerveX for Summer 2023 as well as a Web Developer at the University of Toronto Machine Intelligence Student Team (UTMIST).
+I'm experienced in full-stack web development - particularly with Typescript and Python. React is my frontend tool of choice and I've worked in backend with Node, Java, C#, Python, and Golang.
 
 I code all sorts of things, but my personal work has focussed on creating beautiful web apps for everything from simulations and visualisations to sentiment analysis tools. I'm always looking for new opportunities and projects to get involved in so get in touch if you want to collab!
 
