@@ -1,10 +1,12 @@
-<h2 align="center">Hi there! 👋 I'm Jason</h2>
+<h2 align="center">Hi there! 👋 I'm Derrick</h2>
 
-I'm a third year co-op student at the University of Toronto with a passion for software engineering. I'm pursuing an HBSc with a Specialist in Computer Science (ASIP co-op) and Major in Cognitive Science, graduating class of 2025.
+I'm a Product Manager with a background in business development and a knack for scaling operations in the digital realm. My journey has exposed me to diverse industries and challenges, shaping my approach to modern business solutions.
 
-I'm experienced in full-stack web development - particularly with Typescript and Python. React is my frontend tool of choice and I've worked in backend with Node, Java, C#, Python, and Golang.
+In my professional journey, I've honed skills in tools such as No-code platforms (Figma/Webflow/Bubble), CRM Platforms (Salesforce/Pipedrive), as well as Product Roadmapping. These tools, coupled with my understanding of digital trends, have been essential in formulating strategies and executing them efficiently. While I've been fortunate to see positive outcomes, I always believe there's room for growth and new learning experiences.
 
-I code all sorts of things, but my personal work has focussed on creating beautiful web apps for everything from simulations and visualisations to sentiment analysis tools. I'm always looking for new opportunities and projects to get involved in so get in touch if you want to collab!
+Having explored the vast landscape of Web3 through DIGIWORLD and delved deep into digital marketing and e-commerce strategies with various collaborations, my experiences have continuously enriched my toolkit and approach.
+
+I'm always eager to connect, collaborate, and learn from others in the industry. Let's innovate and grow together!
 
 ## Tech stack
 
